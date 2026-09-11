@@ -1,0 +1,8 @@
+{
+  "name": "YarnFlow Order Manager",
+  "description": "Streamline industrial yarn processing with automated voucher tracking, dynamic order entry, and comprehensive customer delivery management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
